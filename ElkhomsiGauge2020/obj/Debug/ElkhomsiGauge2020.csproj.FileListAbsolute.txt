@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.dll
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.pdb
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.UserControl1.resources
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.dll
+C:\Users\admin\source\repos\ElkhomsiGauge2020\ElkhomsiGauge2020\obj\Debug\ElkhomsiGauge2020.pdb

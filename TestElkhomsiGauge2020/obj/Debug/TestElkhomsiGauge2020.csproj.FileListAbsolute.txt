@@ -1,0 +1,26 @@
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.exe.config
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.exe
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.pdb
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.dll
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.pdb
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.Form1.resources
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.Properties.Resources.resources
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.CopyComplete
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.exe
+C:\Users\admin\source\repos\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.pdb
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.exe.config
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.exe
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\TestElkhomsiGauge2020.pdb
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.dll
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\bin\Debug\ElkhomsiGauge2020.pdb
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.Form1.resources
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.Properties.Resources.resources
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.csproj.CopyComplete
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.exe
+C:\Users\admin\Desktop\Web Projects\ElkhomsiGauge2020\TestElkhomsiGauge2020\obj\Debug\TestElkhomsiGauge2020.pdb
